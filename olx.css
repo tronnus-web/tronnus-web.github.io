@@ -1,0 +1,57 @@
+body,
+html{
+    width: 100%;
+    height: 100%;
+    background: url(coffee.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;       
+     background-size: cover;
+     
+      
+}
+
+h1{
+    font-family: 'Fredoka One', cursive;
+    color: beige ;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+#botao {
+   border-radius: 300px;
+   font-weight: 700;
+   padding: 1rem 2rem;
+   text-transform: uppercase;
+   background-color: rgb(83, 50, 34);
+   border-color: rgb(255, 255, 255);
+   
+
+    
+}
+
+
+#botao:hover{
+    background-color:#80391e;
+    border-color: #ffffff;
+    border-width: 4px;
+   
+}
+
+ #linha {
+    background-color: #80391e;
+    max-width: 150px;
+    height: 1px;
+
+
+ }
+ 
+ 
+
+
+
+
+
+
+ 
